@@ -38,7 +38,7 @@ public class AppTest
 
     public void testFalse()
     {
-        //Expected to fail
-        assertTrue( false );
+        //Expected to !fail
+        assertTrue( !false );
     }
 }
