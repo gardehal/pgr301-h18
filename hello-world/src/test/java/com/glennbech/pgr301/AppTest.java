@@ -35,4 +35,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void testFalse()
+    {
+        //Expected to fail
+        assertTrue( false );
+    }
 }

@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c41f1f7-45d6-4345-b2dc-b2ffebc01a13" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world/hello-world.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world/src/test/java/com/glennbech/pgr301/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-world/src/test/java/com/glennbech/pgr301/AppTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/hello-world/target/" />
@@ -32,17 +27,20 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello-world/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
+            <state relative-caret-position="160">
               <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="travis.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/travis.yml">
+      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello-world/src/test/java/com/glennbech/pgr301/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="296">
+              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+              <folding>
+                <element signature="e#714#715#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +63,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/travis.yml" />
+        <option value="$PROJECT_DIR$/hello-world/src/test/java/com/glennbech/pgr301/AppTest.java" />
       </list>
     </option>
   </component>
@@ -97,7 +96,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="519" />
     <option name="y" value="51" />
     <option name="width" value="936" />
@@ -128,6 +127,30 @@
               <item name="pgr301-v18" type="462c0819:PsiDirectoryNode" />
               <item name="hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pgr301-v18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pgr301-v18" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pgr301-v18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pgr301-v18" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pgr301-v18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pgr301-v18" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pgr301" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,6 +185,29 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="AppTest.testFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hello-world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.glennbech.pgr301.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.glennbech.pgr301" />
+      <option name="MAIN_CLASS_NAME" value="com.glennbech.pgr301.AppTest" />
+      <option name="METHOD_NAME" value="testFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -201,6 +247,11 @@
       <properties />
       <listeners />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.testFalse" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -213,12 +264,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535963226310</updated>
       <workItem from="1535963228203" duration="276000" />
-      <workItem from="1535963712733" duration="667000" />
+      <workItem from="1535963712733" duration="1027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="943000" />
+    <option name="totallyTimeSpent" value="1303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1233" height="735" extended-state="6" />
@@ -272,17 +323,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-world/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world/src/test/java/com/glennbech/pgr301/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+          <folding>
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
