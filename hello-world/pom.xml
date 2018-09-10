@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.garale16</groupId>
-    <artifactId>pgr301-18</artifactId>
+    <artifactId>pgr301-h18</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.glennbech.pgr301</groupId>

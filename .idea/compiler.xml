@@ -11,7 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="hello-world" target="1.8" />
-      <module name="pgr301-v18" target="1.8" />
+      <module name="pgr301-h18" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
