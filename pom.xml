@@ -6,7 +6,7 @@
     <artifactId>pgr301-h18</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Root of PGR301V18</name>
+    <name>Root of PGR301H18</name>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>

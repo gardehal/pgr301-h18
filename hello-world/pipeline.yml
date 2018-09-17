@@ -2,7 +2,7 @@ resources:
 - name: git-repo
   type: git
   source:
-    uri: https://github.com/glennbech/pgr301-helloworld
+    uri: https://github.com/grdall/pgr301-h18/tree/master/hello-world
     branch: master
 
 jobs:
